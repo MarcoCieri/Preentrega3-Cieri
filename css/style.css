@@ -1,0 +1,75 @@
+a {
+    text-decoration: none;
+}
+.logo {
+    background-color: white;
+}
+.menu {
+    background-color: rgb(254, 254, 228);
+    margin: 0 auto;
+    padding: 0.5px;
+
+}
+.menu ul li a {
+    margin: 30 15px;
+    border-radius: 5px;
+    color: black;
+}
+.menu ul {
+    margin: 30 800px;
+    list-style: none;
+    display: flex;
+}
+.titulo {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.flex-servicios {
+    display: flex;
+    text-align: center;
+    font-size: 32px;
+    font-family: arial;
+}
+.flex-servicios div p {
+    margin-top: 150px;
+}
+.imagen {
+    width: 100%;
+    height: auto;
+}
+.imagen2 {
+    height: auto;
+}
+.flex-tramites {
+    display: flex;
+    text-align: center;
+    font-size: 32px;
+    font-family: arial;
+    margin-top: 70px;
+}
+.flex-tramites div p {
+    margin-top: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0 50 50 50px;
+}
+.imagen {
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.imgcontadora img {
+    width: 100%;
+}
+footer {
+    background-color: aliceblue;
+}
+footer h4 {
+    margin-top: 50px;
+}
+footer ul {
+    list-style: none;
+    text-align: right;
+}
